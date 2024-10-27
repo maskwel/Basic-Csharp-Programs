@@ -1,0 +1,7 @@
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\bin\Debug\The Tech Academy DR.exe.config
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\bin\Debug\The Tech Academy DR.exe
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\bin\Debug\The Tech Academy DR.pdb
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\obj\Debug\The Tech Academy DR.csproj.AssemblyReference.cache
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\obj\Debug\The Tech Academy DR.csproj.CoreCompileInputs.cache
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\obj\Debug\The Tech Academy DR.exe
+C:\Users\Makswel\Desktop\Basic_C#_Programs\Basic-Csharp-Programs\The Tech Academy DR\obj\Debug\The Tech Academy DR.pdb
